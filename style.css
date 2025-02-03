@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #B771E5;
+    font-size: large;
+    font-weight: 600;
+}
+.nav{
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    padding: 30px;
+    background-color: #AEEA94;
+    color: #B771E5;
+}
+.icon{
+    position: relative;
+    top: 6px;
+    margin-right: 10px;
+    color: #B771E5;
+}
+h1{
+    text-align: center;
+    margin-top: 15%;
+}
